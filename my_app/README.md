@@ -5,3 +5,4 @@ cd my_app
 npm start
 https://fonts.google.com/
 rafce short
+npm install react-icons
