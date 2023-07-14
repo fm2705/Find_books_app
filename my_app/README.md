@@ -1,8 +1,5 @@
-# Find_books_app
-# create react-app
-npx create-react-app my_app
-cd my_app
-npm start
-https://fonts.google.com/
-rafce short
-npm install react-icons
+#A React application where users can search for any book and access book and author catalog data. 
+
+#By using openlibrary API app users can make infrequent, real-time searches for specific books, their authors, and their availabilities. 
+
+#Technologies: ReactJS, JavaScript XML (JSX), HTML, CSS.
