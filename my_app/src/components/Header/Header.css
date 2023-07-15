@@ -1,7 +1,8 @@
 .header-content{
     min-height: 75vh;
-    background: linear-gradient(rgba(141, 39, 174, 0.3), rgba(141, 39, 174, 0.5)), url("../../images/library-img.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(141, 39, 174, 0.3), rgba(141, 39, 174, 0.5)), url("../../images/library-img3.jpg") center/cover no-repeat;
     flex-direction: column;
+    background-size: 100% 100%;
 }
 .header-title{
     font-size: 4.2rem;
